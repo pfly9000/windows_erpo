@@ -1,0 +1,60 @@
+Etag,ParentReference,documentType,creditAmount,accountId,postingDate,debitAmount,accountNumber,id,description,documentNumber,dimensions,lastModifiedDateTime
+"W/""JzE5OzkzNDIxODMwMjg1MDQ0OTU5ODUxOzAwOyc=""",,Invoice,4479.500000,35be85e2-f243-eb11-89f8-000d3a5d93f1,2022-12-02,0.000000,22000,630973,Invoice AP004294,PI002917,"",2022-12-05 08:22:14.293
+"W/""JzIwOzExNDYzMDk2NzU3NDQ0NDI1NzMwMTswMDsn""",,Invoice,146.910000,35be85e2-f243-eb11-89f8-000d3a5d93f1,2022-12-02,0.000000,22000,630975,Invoice AP004295,PI002918,"",2022-12-05 08:23:34.117
+"W/""JzE4OzQ1ODcxMzYxNTM1NjEyNTEyNTE7MDA7Jw==""",,Invoice,479.350000,35be85e2-f243-eb11-89f8-000d3a5d93f1,2022-12-02,0.000000,22000,630977,Invoice AP004296,PI002919,"",2022-12-05 08:25:23.973
+"W/""JzIwOzEwMjMxMDc0NjEyMzg3MjU2MDA4MTswMDsn""",,Payment,0.000000,35be85e2-f243-eb11-89f8-000d3a5d93f1,2022-12-02,4479.500000,22000,630979,CABLE BUILDING OWNERS LLC,PMT0003139,"[
+  {
+    ""code"": ""DEPARTMENT"",
+    ""displayName"": ""Department"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  },
+  {
+    ""code"": ""REVENUE GROUP"",
+    ""displayName"": ""Revenue group"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  }
+]",2022-12-05 08:26:00.420
+"W/""JzE5OzMwMzkyMzY0MzExNTk1MzU2NjMxOzAwOyc=""",,Payment,0.000000,35be85e2-f243-eb11-89f8-000d3a5d93f1,2022-12-02,146.910000,22000,630981,HEBERGEMENT OVH INC,PMT0003140,"[
+  {
+    ""code"": ""DEPARTMENT"",
+    ""displayName"": ""Department"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  },
+  {
+    ""code"": ""REVENUE GROUP"",
+    ""displayName"": ""Revenue group"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  }
+]",2022-12-05 08:26:32.197
+"W/""JzE5OzEwMzk2NzMzMjY5NjMwNTM2ODUxOzAwOyc=""",,Payment,0.000000,35be85e2-f243-eb11-89f8-000d3a5d93f1,2022-12-02,479.350000,22000,630983,UNITED HEALTH CARE,PMT0003141,"[
+  {
+    ""code"": ""DEPARTMENT"",
+    ""displayName"": ""Department"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  },
+  {
+    ""code"": ""REVENUE GROUP"",
+    ""displayName"": ""Revenue group"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  }
+]",2022-12-05 08:27:08.167
+"W/""JzE5Ozc4NzI3ODM0NzgyNjUwNjQwMDcxOzAwOyc=""",,Payment,0.000000,35be85e2-f243-eb11-89f8-000d3a5d93f1,2022-12-02,2742.000000,22000,629875,Ryan Muller,PMT0003138,"[
+  {
+    ""code"": ""DEPARTMENT"",
+    ""displayName"": ""Department"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  },
+  {
+    ""code"": ""REVENUE GROUP"",
+    ""displayName"": ""Revenue group"",
+    ""valueCode"": ""1000"",
+    ""valueDisplayName"": ""FIRM GENERAL BAL SHEET""
+  }
+]",2022-12-02 00:12:16.273
